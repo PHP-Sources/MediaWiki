@@ -2,28 +2,27 @@
 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/mediawiki.webp" width="48" height="48" alt="MediaWiki">
 
-**MediaWiki 1.45.1** – Le moteur de wiki open source le plus puissant et le plus utilisé au monde (utilisé par Wikipédia).
+**MediaWiki 1.45.3** – Le moteur de wiki open source le plus puissant et le plus utilisé au monde (utilisé par Wikipédia).
 
-### Points forts
-- Plateforme wiki ultra-robuste et scalable
-- Syntaxe wiki riche et extensions très nombreuses
-- Gestion avancée des utilisateurs, droits et versions
+### Points forts de cette version
+- Plateforme wiki ultra-robuste et hautement scalable
+- Syntaxe wiki riche et système d’extensions très complet
+- Gestion avancée des utilisateurs, droits et versions d’articles
 - Support multilingue et multi-wiki
-- Excellent pour les grands projets de documentation et de connaissance
-- Communauté énorme et mises à jour régulières
+- Excellent pour les grands projets de documentation, encyclopédies et bases de connaissances
+- Communauté énorme et mises à jour de sécurité régulières
 
 ### 📥 Dernière version du script
 
 **Explorez rapidement les fichiers via notre explorateur :**
 
-👉 **[📂 Explorer MediaWiki 1.45.1](https://phpsources.net/x7g3p2.php?id=2068&name=mediawiki-1.45.1.zip)**
+👉 **[📂 Explorer MediaWiki 1.45.3](https://phpsources.net/x7g3p2.php?id=2068&name=mediawiki-1.45.3.zip)**
 
-**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
-
-👉 **[MediaWiki sur phpsources.net](https://phpsources.net/script/php/wiki/2068-5_mediawiki,1.45.1)**
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
+👉 **[MediaWiki sur phpsources.net](https://phpsources.net/script/php/wiki/2068-6_mediawiki,1.45.3)**
 
 ### 📜 Anciennes versions
-*(Aucune ancienne version pour le moment)*
+- **MediaWiki 1.45.1** → [Fiche complète](https://phpsources.net/script/php/wiki/2068-5_mediawiki,1.45.1) | [Explorer les fichiers](https://phpsources.net/x7g3p2.php?id=2068&name=mediawiki-1.45.1.zip)
 
 ### Licence
 Distribué sous licence **GPL**.
